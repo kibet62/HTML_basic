@@ -1,0 +1,67 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+ul{
+    color: chartreuse;
+    text-align: center;
+}
+ol{
+    color: deeppink;
+    text-align: center;
+}
+h1{
+    color: red;
+    text-align: left;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 20px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+h3{
+    color: red;
+    text-align: center;
+}
+container h1{text-align: center;
+}
+form group1{
+    margin-bottom: 20px;
+}
+form group label{
+    display: block;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+form group input{
+    background-color: cornflowerblue;
+    width: 250px;
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 14px;
+}
+form group input[type=submit]:hover{
+    background-color: red;
+
+
+}
+form group input[type=submit]{
+    background-color: antiquewhite;
+    color: aqua;
+    cursor: pointer;
+}
